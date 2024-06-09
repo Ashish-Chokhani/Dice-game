@@ -26,11 +26,11 @@ You need a web browser to run this game.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ashish-Chokhani/dice-game.git
+   git clone https://github.com/Ashish-Chokhani/Dice-game.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd dice-game
+   cd Dice-game
    ```
 
 ### Usage
